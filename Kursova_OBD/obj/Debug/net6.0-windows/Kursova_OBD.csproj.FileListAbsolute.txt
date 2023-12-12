@@ -1,0 +1,86 @@
+D:\My projects\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.csproj.AssemblyReference.cache
+D:\My projects\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.Form1.resources
+D:\My projects\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.csproj.GenerateResource.cache
+D:\My projects\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.GeneratedMSBuildEditorConfig.editorconfig
+D:\My projects\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.AssemblyInfoInputs.cache
+D:\My projects\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.AssemblyInfo.cs
+D:\My projects\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.csproj.CoreCompileInputs.cache
+D:\My projects\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.exe
+D:\My projects\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.deps.json
+D:\My projects\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.runtimeconfig.json
+D:\My projects\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.dll
+D:\My projects\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.pdb
+D:\My projects\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.dll
+D:\My projects\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\refint\Kursova_OBD.dll
+D:\My projects\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.pdb
+D:\My projects\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.genruntimeconfig.cache
+D:\My projects\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\ref\Kursova_OBD.dll
+D:\My projects\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.Form2.resources
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.csproj.AssemblyReference.cache
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.Autorization.resources
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.UIDB.resources
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.csproj.GenerateResource.cache
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.GeneratedMSBuildEditorConfig.editorconfig
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.AssemblyInfoInputs.cache
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.AssemblyInfo.cs
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.csproj.CoreCompileInputs.cache
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.dll
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\refint\Kursova_OBD.dll
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.pdb
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.exe
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.deps.json
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.runtimeconfig.json
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.dll
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.pdb
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.genruntimeconfig.cache
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\ref\Kursova_OBD.dll
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.exe
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.deps.json
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.runtimeconfig.json
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.dll
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.pdb
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.csproj.AssemblyReference.cache
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.Autorization.resources
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.UIDB.resources
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.csproj.GenerateResource.cache
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.GeneratedMSBuildEditorConfig.editorconfig
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.AssemblyInfoInputs.cache
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.AssemblyInfo.cs
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.csproj.CoreCompileInputs.cache
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.csproj.CopyComplete
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.dll
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\obj\Debug\net6.0-windows\refint\Kursova_OBD.dll
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.pdb
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.genruntimeconfig.cache
+D:\отхер\Новая папка\Новий Архив ZIP - WinRAR\Kursova_OBD — копия — копия\Kursova_OBD\obj\Debug\net6.0-windows\ref\Kursova_OBD.dll
+D:\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.exe
+D:\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.deps.json
+D:\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.runtimeconfig.json
+D:\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.dll
+D:\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\Kursova_OBD.pdb
+D:\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Kursova_OBD\Kursova_OBD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.csproj.AssemblyReference.cache
+D:\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.Autorization.resources
+D:\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.UIDB.resources
+D:\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.csproj.GenerateResource.cache
+D:\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.AssemblyInfoInputs.cache
+D:\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.AssemblyInfo.cs
+D:\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.csproj.CoreCompileInputs.cache
+D:\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.csproj.CopyComplete
+D:\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.dll
+D:\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\refint\Kursova_OBD.dll
+D:\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.pdb
+D:\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\Kursova_OBD.genruntimeconfig.cache
+D:\Kursova_OBD\Kursova_OBD\obj\Debug\net6.0-windows\ref\Kursova_OBD.dll
